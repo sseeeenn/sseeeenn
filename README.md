@@ -1,4 +1,2 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet" alt=""/>
-</div>
+<h1 align="center">Hello world<img</h1>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sseeeenn&style=flat-square&color=blueviolet" alt=""></p>
